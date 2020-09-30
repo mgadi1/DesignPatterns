@@ -1,6 +1,5 @@
 # csx42-fall-2019-assign3-mgadi1
 Name: Mohit Gadi
-SLACK DAYS USED: 2.
 
 Following are the commands and the instructions to run ANT on your project.
 
